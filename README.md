@@ -3,7 +3,7 @@ Snake!
 
 Snake!
 
-![Demo video](snake.mp4)
+![Demo](demos/snake.gif)
 
 Made while learning [nim-lang](https://nim-lang.org/).
 
