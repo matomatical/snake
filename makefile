@@ -1,10 +1,13 @@
-snake: snake.nim
-	nim compile snake.nim
+snake.dev: snake.nim
+	nim compile -o:snake.dev snake.nim
 
-run: snake
-	./snake
+snake: snake.nim
+	nim compile -d:release 	 snake.nim
+
+run: snake.dev
+	./snake.dev
 
 clean:
-	rm -f ./snake
+	rm -f ./snake ./snake.dev
 
-.PHONY: run
+.PHONY: run clean

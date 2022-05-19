@@ -1,39 +1,14 @@
 Snake!
 ======
 
-Snake! Made while learning [nim-lang](https://nim-lang.org/).
+Snake!
 
-Demo
-----
+![Demo video](snake.mp4)
 
-```
-┌────────────────────────────────┐
-│                                │
-│          @@  ██████████████    │
-│                          ██    │
-│                          ██    │
-│            ████████      ██    │
-│            ██    ██      ██    │
-│            ██    ██      ██    │
-│            ██    ██      ██    │
-│            ██    ██      ██    │
-│            ██    ██      ██    │
-│            ██    ██      ██    │
-│            ██    ██      ██    │
-│            ██    ██████████    │
-│                                │
-│                                │
-│                                │
-└────────────────────────────────┘
-WASD : turn     41      ESC : quit
-```
+Made while learning [nim-lang](https://nim-lang.org/).
 
 Usage
 -----
 
-`make` and then `./snake` (or `make run`).
+`make snake` and then `./snake`!
 
-TODO
-----
-
-Hey I should probably make a 'release' target.
