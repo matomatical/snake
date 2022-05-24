@@ -39,6 +39,8 @@ Considering the following next steps (some day):
   out of the multi-player variant, perhaps with *real-time* as the 
   interesting challenging aspect for the year.
   (Note: Nim could be a good choice of language for a COMP30024-style class?)
+* Maybe an implementation for Rust could be good too. This is a pretty good
+  beginner project if you ask me.
 
 Links
 -----
