@@ -3,7 +3,7 @@ Snake!
 
 Snake!
 
-![Demo](demos/snake.gif)
+![Demo (TODO: demo of nico version)](demos/snake.gif)
 
 Made while learning [nim-lang](https://nim-lang.org/) and thinking about
 gameplay variants for as a potential educational project.
@@ -16,13 +16,9 @@ Several implementations of a very simple snake game:
 * [nim + nico](nim-nico)
   a graphical implementation in [nim](https://nim-lang.org)
   using [nico](https://github.com/ftsf/nico).
-
-  Demo: TODO.
 * [nim + ill-will](nim-illwill/)
   a command-line implementation in [nim](https://nim-lang.org)
   using [illwill](https://github.com/johnnovak/illwill).
-
-  ![Demo](demos/snake.gif)
 * [python](python/) abandoned partial implementation to get a feel for the
   data structures involved
 
@@ -50,5 +46,5 @@ Links
 Other snake games, from which I took some inspiration:
 
 * The snake game on my nokia
-* 
+* [dom96/snake](https://github.com/dom96/snake/)
 
