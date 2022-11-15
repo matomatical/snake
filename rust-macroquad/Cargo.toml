@@ -1,0 +1,8 @@
+[package]
+name = "macroquad-snake"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.3"
+fastrand = "1.8.0"
